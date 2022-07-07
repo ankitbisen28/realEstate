@@ -1,0 +1,8 @@
+.container {
+    padding: 1.5rem;
+}
+
+.vl {
+    border-left: 2px solid black;
+    height: 35px;
+  }

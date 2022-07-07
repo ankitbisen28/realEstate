@@ -1,0 +1,12 @@
+.card {
+    margin: 1rem;
+}
+
+.container {
+    flex-wrap: wrap;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+}
